@@ -1,5 +1,0 @@
-- name: Make Work Directory demonstration
-  file:
-    path: /tmp/demodirectory
-    state: directory
-    mode: 0755
